@@ -1,1 +1,2 @@
-http://pojo.sodhanalibrary.com/
+>> Converts json to POJO java class
+  --> http://pojo.sodhanalibrary.com/
